@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+- 🛡️ I hold a bachelor's degree in cybersecurity. 
+- 👨🏻‍💻 Like to code in pyhton and javascript (React)
+- My hobbies are playing rugby🏉 and eating ༼ つ ◕_◕ ༽つ🍰🍔🍕
+
 
 <!--
 **KhaledQasim/KhaledQasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
