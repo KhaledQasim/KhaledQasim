@@ -1,6 +1,6 @@
 # Hi there 👋
 - 🛡️ I hold a bachelor's degree in cybersecurity. 
-- 👨🏻‍💻 Like to code in pyhton and javascript (React)
+- 👨🏻‍💻 Like to code in pyhton, javascript (React) and java
 - My hobbies are playing rugby🏉 and eating ༼ つ ◕_◕ ༽つ🍰🍔🍕
 
 
